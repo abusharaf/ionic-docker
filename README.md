@@ -6,6 +6,6 @@
 
 ![Ionic](https://raw.githubusercontent.com/abusharaf/ionic-docker/master/icons/rsz_ionic-logo.png "Ionic")
 
-> Ionic framework with Cordova, Capacitor, and Stencil JS ready-made to play as docker containers.
+> A ready made docker image that runs ionic framework with Cordova, Capacitor, and Stencil JS frameworks embedded in the container _,based on lightweight linux alpine image,_ to ease the development of hyrbid mobile & PWA, this image will be the base for further improvments.
 
 ___
