@@ -1,4 +1,4 @@
-# ionic-docker  ![DUB](https://img.shields.io/dub/l/vibe-d.svg) [![GitHub version](https://badge.fury.io/gh/abusharaf%2Fionic-docker.svg)](https://badge.fury.io/gh/abusharaf%2Fionic-docker)
+# <span style="color:blue">ionic-docker</span>  ![DUB](https://img.shields.io/dub/l/vibe-d.svg) [![GitHub version](https://badge.fury.io/gh/abusharaf%2Fionic-docker.svg)](https://badge.fury.io/gh/abusharaf%2Fionic-docker)
 
 ---
 
