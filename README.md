@@ -9,3 +9,5 @@
 > A ready made docker image that runs ionic framework with Cordova, Capacitor, and Stencil JS frameworks embedded in the container _,based on lightweight linux alpine image,_ to ease the development of hyrbid mobile & PWA, this image will be the base for further improvments.
 
 ___
+
+### Base Image ![Base Alpine](https://img.shields.io/badge/Base-Alpine-red.svg)
