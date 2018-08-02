@@ -4,6 +4,6 @@
 [![npm version](https://badge.fury.io/js/ionic.svg)](https://badge.fury.io/js/ionic)
 ![Under_Development Working_on_DockerFile](https://img.shields.io/badge/Under_Development-Working_on_DockerFile-blue.svg)
 
-![Alt text](https://raw.githubusercontent.com/abusharaf/ionic-docker/master/horizontal.png "Docker")
+![Docker](https://raw.githubusercontent.com/abusharaf/ionic-docker/master/icons/horizontal.png "Docker") ![Ionic](https://raw.githubusercontent.com/abusharaf/ionic-docker/master/icons/rsz_ionic-logo.png "Ionic")
 
 Ionic framework with Cordova, Capacitor, and Stencil JS ready-made to play as docker containers.   
