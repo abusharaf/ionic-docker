@@ -1,4 +1,6 @@
-# ionic-docker
+# ionic-docker  
+![DUB](https://img.shields.io/dub/l/vibe-d.svg)
+
 
 [![npm version](https://badge.fury.io/js/ionic.svg)](https://badge.fury.io/js/ionic)
 ![Staging Under_Development](https://img.shields.io/badge/Staging-Under_Development-blue.svg)
