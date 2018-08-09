@@ -1,4 +1,4 @@
-# ionic-docker ![Type Lightweight](https://img.shields.io/badge/Type-Lightweight-35a4de.svg) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![GitHub version](https://badge.fury.io/gh/abusharaf%2Fionic-docker.svg)](https://badge.fury.io/gh/abusharaf%2Fionic-docker)
+# ionic-docker [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![GitHub version](https://badge.fury.io/gh/abusharaf%2Fionic-docker.svg)](https://badge.fury.io/gh/abusharaf%2Fionic-docker)
 
 [![Ionic](https://badge.fury.io/js/ionic.svg)](https://badge.fury.io/js/ionic)
 [![Cordova](https://badge.fury.io/js/cordova.svg)](https://badge.fury.io/js/cordova)
