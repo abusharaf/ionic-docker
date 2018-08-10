@@ -2,7 +2,7 @@
 
 [![Ionic 4.0.5](https://img.shields.io/badge/Ionic-4.0.5-blue.svg)](https://beta.ionicframework.com/docs)
 [![Cordova 8.0.0](https://img.shields.io/badge/Cordova-8.0.0-orange.svg)](https://www.npmjs.com/package/cordova)
-[![Under_Development Working_on_DockerFile](https://img.shields.io/badge/Under_Development-Working_on_DockerFile-blue.svg)](https://badge.fury.io/gh/abusharaf%2Fionic-docker) [![Build Status](https://travis-ci.org/abusharaf/Testing.svg?branch=master)](https://travis-ci.org/abusharaf/Testing)
+[![Under_Development Working_on_DockerFile](https://img.shields.io/badge/Under_Development-Working_on_DockerFile-blue.svg)](https://badge.fury.io/gh/abusharaf%2Fionic-docker) [![Build Status](https://travis-ci.org/abusharaf/ionic-docker.svg?branch=master)](https://travis-ci.org/abusharaf/ionic-docker)
 
 ![Ionic](https://raw.githubusercontent.com/abusharaf/ionic-docker/master/icons/rsz_ionic-logo.png "Ionic")
 
