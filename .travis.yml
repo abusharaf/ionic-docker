@@ -5,5 +5,5 @@ services:
 
 script:
 - docker image build -t abusharaf/ionic .
-- docker container run --name testionic -it abusharaf/ionic /bin/sh -c "ionic --version && ionic config set -g --no-interactive && ionic start testapp sidemenu --type=angular --no-link --no-git && cd testapp && ionic info"
+- docker container run --name testionic -it abusharaf/ionic /bin/sh -c "ionic --version && ionic config set -g --no-interactive && ionic start testapp sidemenu --type=angular --cordova --no-link --no-git && cd testapp && ionic info"
 - docker container ls -a
