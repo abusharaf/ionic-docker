@@ -32,7 +32,7 @@ docker container run -it -p 8100:8100 abusharaf/ionic /bin/sh
 ```
 
 ### Use as base image
-```
+```dockerfile
 FROM abusharaf/ionic:latest
 ```
 
