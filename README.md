@@ -10,7 +10,6 @@
 [![Build Status](https://travis-ci.org/abusharaf/ionic-docker.svg?branch=master)](https://travis-ci.org/abusharaf/ionic-docker)
 [![HitCount](http://hits.dwyl.io/abusharaf/ionic-docker.svg)](http://hits.dwyl.io/abusharaf/ionic-docker) 
 [![Beta On_Going_Changes](https://img.shields.io/badge/Beta-On_Going_Changes-brightgreen.svg)](https://badge.fury.io/gh/abusharaf%2Fionic-docker) 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 [![GitHub version](https://badge.fury.io/gh/abusharaf%2Fionic-docker.svg)](https://badge.fury.io/gh/abusharaf%2Fionic-docker)
 
 # ionic-docker 
@@ -50,6 +49,6 @@ FROM abusharaf/ionic:latest
 ___
 
 
-## License
+## License  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 This project is licensed under the MIT License - see the <a href="https://github.com/abusharaf/ionic-docker/blob/master/LICENSE">LICENSE.md</a> file for details
