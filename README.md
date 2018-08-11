@@ -2,8 +2,7 @@
 [![HitCount](http://hits.dwyl.io/abusharaf/ionic-docker.svg)](http://hits.dwyl.io/abusharaf/ionic-docker) [![Beta On_Going_Changes](https://img.shields.io/badge/Beta-On_Going_Changes-brightgreen.svg)](https://badge.fury.io/gh/abusharaf%2Fionic-docker) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![GitHub version](https://badge.fury.io/gh/abusharaf%2Fionic-docker.svg)](https://badge.fury.io/gh/abusharaf%2Fionic-docker)
 # ionic-docker 
 
-
-![Ionic](https://raw.githubusercontent.com/abusharaf/ionic-docker/master/icons/rsz_ionic-logo.png "Ionic") [![npm version](https://badge.fury.io/js/ionic.svg)](https://beta.ionicframework.com/docs) [![Cordova 8.0.0](https://img.shields.io/badge/Cordova-8.0.0-orange.svg)](https://www.npmjs.com/package/cordova)
+<a href="https://www.ionic.io"><img align="center" src="https://raw.githubusercontent.com/abusharaf/ionic-docker/master/icons/rsz_ionic-logo.png"></a>[![npm version](https://badge.fury.io/js/ionic.svg)](https://beta.ionicframework.com/docs) [![Cordova 8.0.0](https://img.shields.io/badge/Cordova-8.0.0-orange.svg)](https://www.npmjs.com/package/cordova)
 
 > A ready made docker image that runs ionic framework with Cordova, Capacitor, and Stencil JS frameworks embedded in the container _,based on lightweight linux alpine image,_ to ease the development of hyrbid mobile & PWA, this image will be the base for further improvments.
 
