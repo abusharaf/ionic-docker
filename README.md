@@ -3,6 +3,7 @@
 [![Ionic 4.0.5](https://img.shields.io/badge/Ionic-4.0.5-blue.svg)](https://beta.ionicframework.com/docs)
 [![Cordova 8.0.0](https://img.shields.io/badge/Cordova-8.0.0-orange.svg)](https://www.npmjs.com/package/cordova)
 [![Build Status](https://travis-ci.org/abusharaf/ionic-docker.svg?branch=master)](https://travis-ci.org/abusharaf/ionic-docker)
+[![HitCount](http://hits.dwyl.io/abusharaf/ionic-docker.svg)](http://hits.dwyl.io/abusharaf/ionic-docker)
 
 ![Ionic](https://raw.githubusercontent.com/abusharaf/ionic-docker/master/icons/rsz_ionic-logo.png "Ionic")
 
