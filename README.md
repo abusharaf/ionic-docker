@@ -1,3 +1,12 @@
+![Docker Automated build](https://img.shields.io/docker/automated/abusharaf/ionic.svg)
+![Docker Stars](https://img.shields.io/docker/stars/abusharaf/ionic.svg)
+![Docker Pulls](https://img.shields.io/docker/pulls/abusharaf/ionic.svg)
+![Docker Build Status](https://img.shields.io/docker/build/abusharaf/ionic.svg)
+
+
+
+
+
 ![Type Lightweight](https://img.shields.io/badge/Type-Lightweight-35a4de.svg) 
 [![Build Status](https://travis-ci.org/abusharaf/ionic-docker.svg?branch=master)](https://travis-ci.org/abusharaf/ionic-docker)
 [![HitCount](http://hits.dwyl.io/abusharaf/ionic-docker.svg)](http://hits.dwyl.io/abusharaf/ionic-docker) 
