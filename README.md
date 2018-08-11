@@ -3,7 +3,7 @@
 # ionic-docker 
 
 
- <a href="https://www.ionic.io" target="_blank"><img src="https://raw.githubusercontent.com/abusharaf/ionic-docker/master/icons/rsz_ionic-logo.png"></a>
+<p align="center"> <a href="https://www.ionic.io" target="_blank"><img src="https://raw.githubusercontent.com/abusharaf/ionic-docker/master/icons/rsz_ionic-logo.png"></a></p>
   [![npm version](https://badge.fury.io/js/ionic.svg)](https://beta.ionicframework.com/docs) [![Cordova 8.0.0](https://img.shields.io/badge/Cordova-8.0.0-orange.svg)](https://www.npmjs.com/package/cordova)
 
 
