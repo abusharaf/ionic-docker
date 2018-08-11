@@ -2,9 +2,8 @@
 ![Docker Stars](https://img.shields.io/docker/stars/abusharaf/ionic.svg)
 ![Docker Pulls](https://img.shields.io/docker/pulls/abusharaf/ionic.svg)
 ![Docker Build Status](https://img.shields.io/docker/build/abusharaf/ionic.svg)
-
-
-
+![MicroBadger Size (tag)](https://img.shields.io/microbadger/image-size/abusharaf/ionic.svg)
+![MicroBadger Layers (tag)](https://img.shields.io/microbadger/layers/abusharaf/ionic.svg)
 
 
 ![Type Lightweight](https://img.shields.io/badge/Type-Lightweight-35a4de.svg) 
@@ -28,24 +27,29 @@ The aim of this image is to have a neat, clean, and small in size development en
 
 ## Usage
 
-### Pull image from docker hub
+#### Pull image from docker hub
 
 ```
 docker pull abusharaf/ionic:latest
 ```
 
-### Build image from Github Dockerfile
+#### Build image from Github Dockerfile
 ```
 docker image build -t abusharaf/ionic github.com/abusharaf/ionic-docker
 ```
 
-### Run docker image
+#### Run docker image
 ```
 docker container run -it -p 8100:8100 abusharaf/ionic /bin/sh
 ```
 
-### Use as base image
+#### Use as base image
 ```dockerfile
 FROM abusharaf/ionic:latest
 ```
 ___
+
+
+## License
+
+> This project is licensed under the MIT License - see the LICENSE.md file for details
