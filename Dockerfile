@@ -2,7 +2,7 @@ FROM alpine:3.8
 
 LABEL maintainer="Mohammad Sharaf Hijjeh sharaf.hijjeh@outlook.com"
 
-ENV IONIC_VERSION 4.2.1
+ENV IONIC_VERSION 4.5.0
 ENV CORDOVA_VERSION 8.0.0
 
 RUN apk upgrade && apk update \
